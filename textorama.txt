@@ -1,0 +1,4 @@
+nuevotexto
+:wq
+:q!
+
